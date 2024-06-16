@@ -1,0 +1,1 @@
+just try the simple code to access your webcam using python

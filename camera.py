@@ -7,7 +7,7 @@ if len(sys.argv) > 1:
 
 source = cv2.VideoCapture(s)
 
-win_name = 'Camera Preview'
+win_name = 'Accessing Camera'
 cv2.namedWindow(win_name, cv2.WINDOW_NORMAL)
 
 while cv2.waitKey(1) != 27: # Escape

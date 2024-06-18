@@ -1,3 +1,5 @@
+Author: Galan Ramadan Harya Galib
+
 This is the directory of Traditional computer vision code using python (some of it is modern).
 
 Feel free if you want to duplicate it for learning reason.
